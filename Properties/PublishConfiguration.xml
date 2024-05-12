@@ -1,0 +1,52 @@
+﻿<Publish>
+	<!--Id must be set in order to update existed mod. it is not required for publishing mod for the first time-->
+	<ModId Value="79067" />
+	<!--Name of the mod to display to players-->
+	<DisplayName Value="Mixed Residential Office Zoning" />
+	<!--Short description of the mod-->
+	<ShortDescription Value="Adds Mixed Residential Office Zoning" />
+	<!--Long description of the mod. Single line or multi line. Supports minimal markdown subset-->
+	<!--LongDescription Value="This is a long description" /-->
+	<LongDescription>
+# Mixed Residential Office Zoning
+
+This mod adds copy of the Mixed Residential buildings, with a twist. Instead of having commercial space at the bottom, this one has office spaces.
+
+## Usage
+* Zone and Wait
+* Or plop "MixedOffice" using Find It or Dev Menu
+
+## DISCLAIMER
+> This mod requires [Asset Packs Manager](https://mods.paradoxplaza.com/mods/78903/Windows) which is highly experimental.
+This mod shouldn't break the save game. But subscribing to assets that require this without the dependency will pop up errors.
+Worst case you'll get error popups on game load and/or grey boxes in save.
+But either way, YOU ARE RESPONSIBLE for any damage.
+Contact me on Discord and I'll try to help you recover anyway.
+
+## Came from the in-game notification?
+> This mod was previously called "VP EU Commercial High" but as of May 12, 2024 this mod is now "Mixed Residential Office Zoning".
+	</LongDescription>
+	<!--Thumbnail-->
+	<Thumbnail Value="Properties/Thumbnail.png" />
+	<!--Screenshot, can be set multiple times-->
+	<Screenshot Value="Properties/Screenshots/001.jpg" />
+	<Screenshot Value="Properties/Screenshots/002.jpg" />
+	<!--Tag, can be set multiple times-->
+	<Tag Value="" />
+	<!--Link to the forum post where the mod can be discussed-->
+	<ForumLink Value="" />
+	<!--Version of the mod-->
+	<ModVersion Value="2.0" />
+	<!--Recommended version of the base game to use the mod-->
+	<GameVersion Value="1.1.*" />
+	<!--Dependency for the mod, can be set multiple times-->
+	<Dependency Id="" />
+	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
+	<ChangeLog Value="2.0" />
+	<ChangeLog>
+Since this mod package was sitting empty, I thought this would be a good addition.
+* Adds copy of all EU and NA Mixed buildings, with office spaces.
+	</ChangeLog>
+	<!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon-->
+	<ExternalLink Type="" Url="" />
+</Publish>
