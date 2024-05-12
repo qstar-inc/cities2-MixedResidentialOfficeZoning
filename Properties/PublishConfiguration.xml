@@ -48,5 +48,5 @@ Since this mod package was sitting empty, I thought this would be a good additio
 * Adds copy of all EU and NA Mixed buildings, with office spaces.
 	</ChangeLog>
 	<!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon-->
-	<ExternalLink Type="" Url="" />
+	<ExternalLink Type="github" Url="https://github.com/qstar-inc/cities2-MixedResidentialOfficeZoning" />
 </Publish>
