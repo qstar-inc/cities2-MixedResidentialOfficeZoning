@@ -6,7 +6,7 @@
     "components": {
         "$id": 1,
         "$type": "1|System.Collections.Generic.List`1[[Game.Prefabs.ComponentBase, Game]], mscorlib",
-        "$rlength": 10,
+        "$rlength": 9,
         "$rcontent": [
             {
                 "$id": 2,
@@ -50,25 +50,6 @@
                 "name": "ThemeObject",
                 "active": true,
                 "m_Theme": $fstrref:"UnityGUID:846c60044f7ead04d9b11f0d749ea5f2"
-            },
-            {
-                "$id": 7,
-                "$type": "7|Game.Prefabs.ObsoleteIdentifiers, Game",
-                "name": "ObsoleteIdentifiers",
-                "active": true,
-                "m_PrefabIdentifiers": {
-                    "$id": 8,
-                    "$type": "8|Game.Prefabs.PrefabIdentifierInfo[], Game",
-                    "$rlength": 1,
-                    "$rcontent": [
-                        {
-                            "$id": 9,
-                            "$type": "9|Game.Prefabs.PrefabIdentifierInfo, Game",
-                            "m_Name": "Residential Mixed",
-                            "m_Type": "ZonePrefab"
-                        }
-                    ]
-                }
             },
             {
                 "$id": 10,
